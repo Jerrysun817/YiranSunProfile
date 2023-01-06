@@ -1,0 +1,26 @@
+.footersec{
+    display: block;
+    background-color: black;
+}
+
+.linksec{
+    display: flex;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.link{
+    width: 30%;
+    position: relative;
+    margin-top: 20px;
+}
+
+.whitetext{
+    width: auto;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    padding-left: 0%;
+}
